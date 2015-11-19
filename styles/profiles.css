@@ -1,0 +1,43 @@
+.executive {
+background-color: blue;
+width: 900px;
+padding: 0px;
+}
+
+.executive-profile {
+width: 210px;
+position: relative;
+background-color: red;
+border: 2px solid #000;
+float: left;
+margin-right: 14.66px;
+margin-bottom: 10px;
+}
+
+.executive-profile-end {
+width: 210px;
+position: relative;
+background-color: blue;
+border: 2px solid #000;
+margin-bottom: 10px;
+float: left;
+}
+
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  height: 0px;
+  color: white;
+  display: table;
+  left: 0;
+  position: absolute;
+  height: 90px;
+  bottom: 30px;
+  width: 210px;
+  font-size:18px; 
+}
+ 
+span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}

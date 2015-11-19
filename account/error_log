@@ -1,0 +1,7 @@
+[24-Jan-2011 03:37:21] PHP Warning:  include(functions.inc) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/itmahawa/public_html/site/account/index.php on line 6
+[24-Jan-2011 03:37:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.inc' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home2/itmahawa/public_html/site/account/index.php on line 6
+[24-Jan-2011 03:37:21] PHP Fatal error:  Call to undefined function  mysql_login() in /home2/itmahawa/public_html/site/account/index.php on line 9
+[24-Jan-2011 00:37:29] PHP Fatal error:  Call to undefined function  check_account() in /home2/itmahawa/public_html/site/account/index.php on line 12
+[24-Jan-2011 00:38:03] PHP Fatal error:  Call to undefined function  semester() in /home2/itmahawa/public_html/site/account/index.php on line 98
+[24-Jan-2011 00:38:18] PHP Fatal error:  Call to undefined function  semester() in /home2/itmahawa/public_html/site/account/index.php on line 98
+[24-Jan-2011 00:53:11] PHP Fatal error:  Call to undefined function  account_sub_navigation() in /home2/itmahawa/public_html/site/account/index.php on line 144

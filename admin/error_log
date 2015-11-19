@@ -1,0 +1,18 @@
+[24-Jan-2011 04:15:09] PHP Warning:  include(functions.inc) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/itmahawa/public_html/site/admin/index.php on line 6
+[24-Jan-2011 04:15:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.inc' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home2/itmahawa/public_html/site/admin/index.php on line 6
+[24-Jan-2011 04:15:09] PHP Fatal error:  Call to undefined function  mysql_login() in /home2/itmahawa/public_html/site/admin/index.php on line 9
+[24-Jan-2011 04:15:15] PHP Warning:  include(functions.inc) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/itmahawa/public_html/site/admin/index.php on line 6
+[24-Jan-2011 04:15:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.inc' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home2/itmahawa/public_html/site/admin/index.php on line 6
+[24-Jan-2011 04:15:15] PHP Fatal error:  Call to undefined function  mysql_login() in /home2/itmahawa/public_html/site/admin/index.php on line 9
+[24-Jan-2011 01:15:22] PHP Fatal error:  Call to undefined function  admin_sub_navigation() in /home2/itmahawa/public_html/site/admin/index.php on line 87
+[24-Jan-2011 01:19:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/itmahawa/public_html/site/functions.inc on line 12
+[24-Jan-2011 01:24:43] PHP Fatal error:  Call to undefined function  genrandomstring() in /home2/itmahawa/public_html/site/admin/members.php on line 21
+[24-Jan-2011 01:57:30] PHP Fatal error:  Call to undefined function  dt() in /home2/itmahawa/public_html/site/admin/calendar.php on line 637
+[24-Jan-2011 01:57:35] PHP Fatal error:  Call to undefined function  dt() in /home2/itmahawa/public_html/site/admin/calendar.php on line 637
+[24-Jan-2011 05:20:21] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/itmahawa/public_html/site/admin/requirements.php on line 194
+[24-Jan-2011 02:23:48] PHP Fatal error:  Call to undefined function  report_headers() in /home2/itmahawa/public_html/site/admin/member_report.php on line 11
+[24-Jan-2011 02:24:04] PHP Fatal error:  Call to undefined function  report_headers() in /home2/itmahawa/public_html/site/admin/member_report.php on line 11
+[24-Jan-2011 02:24:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/itmahawa/public_html/site/functions.inc on line 12
+[24-Jan-2011 02:26:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/itmahawa/public_html/site/functions.inc on line 12
+[24-Jan-2011 02:32:20] PHP Fatal error:  Call to undefined function  sd() in /home2/itmahawa/public_html/site/admin/sem_event_report.php on line 110
+[25-Jan-2011 12:25:43] PHP Fatal error:  Call to undefined function  mysql_time() in /home2/itmahawa/public_html/site/admin/calendar.php on line 30
